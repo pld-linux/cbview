@@ -3,7 +3,7 @@ Summary:	Comic book archives viewer
 Summary(pl):	Przegl±darka komiksów
 Name:		cbview
 Version:	0.06
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications
 Source0:	http://elvine.org/code/%{name}/%{name}-%{version}.tar.gz
