@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=cbview
+GenericName=Comic viewer
+GenericName[pl]=Przeglądarka komiksów
+Comment=Viewer for CBR/CBZ comic book archives
+Comment[pl]=Przeglądarka archiwów komiksów w formacie CBR/CBZ
+Exec=cbview
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;Viewers
+Encoding=UTF-8
+# vi: encoding=utf-8
