@@ -10,6 +10,8 @@ Source0:	http://elvine.org/code/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	6f101dbcecc6d70f59a4b8cec4152446
 Source1:	%{name}.desktop
 URL:		http://elvine.org/code/cbview/
+BuildRequires:  unrar
+BuildRequires:  unzip
 Requires:	perl-Gtk2
 Requires:	perl-String-ShellQuote
 BuildArch:	noarch
