@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Comic book archives viewer
-Summary(pl.UTF-8):   Przeglądarka komiksów
+Summary(pl.UTF-8):	Przeglądarka komiksów
 Name:		cbview
 Version:	0.06
 Release:	3
