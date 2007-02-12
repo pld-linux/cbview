@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Comic book archives viewer
-Summary(pl):	Przegl±darka komiksów
+Summary(pl.UTF-8):   PrzeglÄ…darka komiksÃ³w
 Name:		cbview
 Version:	0.06
 Release:	3
@@ -22,9 +22,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 CBView is a viewer/converter for CBR/CBZ comic book archives, written
 with gtk2-perl.
 
-%description -l pl
-CBView to przegl±darka/konwerter archiwów komiksów w formacie CBR/CBZ,
-napisana przy u¿yciu gtk2-perl.
+%description -l pl.UTF-8
+CBView to przeglÄ…darka/konwerter archiwÃ³w komiksÃ³w w formacie CBR/CBZ,
+napisana przy uÅ¼yciu gtk2-perl.
 
 %prep
 %setup -q
