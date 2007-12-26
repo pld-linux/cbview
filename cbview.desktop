@@ -9,5 +9,4 @@ StartupNotify=false
 Terminal=false
 Type=Application
 Categories=GTK;Graphics;Viewer;
-Encoding=UTF-8
 # vi: encoding=utf-8
